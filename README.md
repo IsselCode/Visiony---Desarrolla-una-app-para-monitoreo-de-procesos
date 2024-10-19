@@ -9,3 +9,5 @@ Este es el código completo de la aplicación que se desarrolló durante el curs
 Puedes adquirirlo aquí abajo 👇
 
 - [Curso para aplicación de procesos de visión](https://academia.tinoreste.com/courses/desarrolla-una-app-para-monitoreo-de-procesosenfocada-a-vision-artificial/)
+
+![](assets/readme/readme.jpg)
